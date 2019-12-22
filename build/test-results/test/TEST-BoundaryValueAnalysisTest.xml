@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BoundaryValueAnalysisTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-12-22T09:35:27" hostname="Lab1321de-MacBook-Air.local" time="0.025">
+  <properties/>
+  <testcase name="gradeA" classname="BoundaryValueAnalysisTest" time="0.005"/>
+  <testcase name="gradeB" classname="BoundaryValueAnalysisTest" time="0.0"/>
+  <testcase name="gradeC" classname="BoundaryValueAnalysisTest" time="0.001"/>
+  <testcase name="gradeD" classname="BoundaryValueAnalysisTest" time="0.001"/>
+  <testcase name="gradeF" classname="BoundaryValueAnalysisTest" time="0.003"/>
+  <testcase name="invalid" classname="BoundaryValueAnalysisTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
